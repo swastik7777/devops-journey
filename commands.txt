@@ -7,3 +7,6 @@ git log
 git log --oneline
 git log --online --pretty
 git rm --cached file_name
+git restore file_name
+git config --global user.name ""
+git config --global user.email ""
