@@ -1,3 +1,5 @@
 git remote add origin url
 git remote -v 
 git remote set-url 
+GIT_SSH_COMMAND="ssh -i /home/ubuntu/.ssh/ssh_key" git push git@github.com:swastik7777/devops-jou
+rney.git
